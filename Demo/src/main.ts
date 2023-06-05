@@ -11,8 +11,8 @@ import { TUICore, TUIComponents } from './TUIKit';
 import { TUICallKit } from '@tencentcloud/call-uikit-vue';
 import { TUINotification } from './TUIKit/TUIPlugin';
 
-const SDKAppID = 0; // Your SDKAppID
-const secretKey = ''; // Your secretKey
+const SDKAppID = 1400787156; // Your SDKAppID
+const secretKey = 'cf43a58a24466a0ec22c7108cb9722a32afb579ca6eb19c1c20ca9374f924652'; // Your secretKey
 
 const TUIKit = TUICore.init({
   SDKAppID,
